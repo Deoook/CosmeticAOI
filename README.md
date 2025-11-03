@@ -8,6 +8,7 @@
 
 - C# (WinForms)
 - MSSQL
+- Cognex VisonPro 9.23
 - DeepCulus 딥러닝 비전 툴
 
 ## 💼 수행 업무
